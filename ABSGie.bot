@@ -1,0 +1,26 @@
+{
+    "name": "Bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "c49321c0-2a27-11eb-a950-2d3e50dc1279",
+            "name": "http://localhost:3978/api/messages"
+        },
+        {
+            "type": "endpoint",
+            "appId": "1c3fd430-4e19-4715-9cc7-d0d422c27353",
+            "appPassword": ")5b2]j|cuO^|as2sw@Le{LKQ-R",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "AXA GIE",
+            "id": "83"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\User\\OneDrive\\Desktop\\ABSGie.bot",
+    "overrides": null
+}
